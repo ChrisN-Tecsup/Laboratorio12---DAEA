@@ -1,0 +1,6 @@
+@Lab12_ChristianMamani_HostAddress = http://localhost:5097
+
+GET {{Lab12_ChristianMamani_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
